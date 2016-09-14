@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["Kevin Rauwolf <sweetpea-git@tentacle.net>"]
 
 [dependencies]
+error-chain = "0.5"
+net2 = "0.2"
+regex = "0.1"
